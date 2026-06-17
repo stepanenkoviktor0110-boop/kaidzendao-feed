@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-06-17T00:00:00+03:00">
+  <shop>
+    <name>KAIDZENDAO</name>
+    <company>KAIDZENDAO</company>
+    <url>https://opt.kaidzendao.ru</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Стулья</category>
+      <category id="2">Деревянные стулья</category>
+      <category id="3">Кресла</category>
+      <category id="4">Диваны</category>
+      <category id="5">Барные стулья</category>
+    </categories>
+    <offers>
+    <offer id="722978306512" available="true">
+      <url>https://opt.kaidzendao.ru/stulya/tproduct/722978306512-stul-maik</url>
+      <price>9000</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://static.tildacdn.com/stor3039-3831-4135-a139-666431326435/26392412.png</picture>
+      <name>Стул МАЙК</name>
+      <description>Стул может быть выполнен в любой обивке по желанию заказчика. Стулья. Запросы: стул, стулья для кафе и ресторана, обеденный стул. Месячное снижение цены — выгодное предложение. Ценовая категория: до 9 000 руб. Опт, доставка по РФ.</description>
+    </offer>
+    <offer id="312263015432" available="true">
+      <url>https://opt.kaidzendao.ru/stulya/tproduct/312263015432-derevyannii-stul-dzhet</url>
+      <price>7500</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://static.tildacdn.com/stor3031-3033-4466-b438-656438323764/6159e421df12b3e944283e162bacb165.png</picture>
+      <name>Деревянный стул ДЖЕТ</name>
+      <description>Стул может быть выполнен в любой обивке по желанию заказчика. Деревянные стулья. Запросы: деревянный стул, стул из дерева, деревянные стулья. Месячное снижение цены — выгодное предложение. Ценовая категория: до 8 000 руб. Опт, доставка по РФ.</description>
+    </offer>
+    <offer id="101688041562" available="true">
+      <url>https://opt.kaidzendao.ru/stulya/derevyannie-stulya/tproduct/101688041562-stul-makalan-2</url>
+      <price>7290</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://static.tildacdn.com/stor3763-3236-4730-a265-376366363731/e661a9feeaa7a09a0fcdcfc99d14086a.png</picture>
+      <name>Стул МАКАЛАН 2</name>
+      <description>Стул может быть выполнен в любой обивке по желанию заказчика. Деревянные стулья. Запросы: деревянный стул, стул из дерева, деревянные стулья. Месячное снижение цены — выгодное предложение. Ценовая категория: до 8 000 руб. Опт, доставка по РФ.</description>
+    </offer>
+    <offer id="596804054012" available="true">
+      <url>https://opt.kaidzendao.ru/stulya/tproduct/596804054012-stul-deli-obivka-velyur</url>
+      <price>13750</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://static.tildacdn.com/stor3965-3531-4965-b765-363364363865/f8192e5015f3b1b97505c5271b36a312.png</picture>
+      <name>Стул ДЕЛИ, обивка велюр</name>
+      <description>Стул может быть выполнен в любой обивке по желанию заказчика. Стулья. Запросы: стул, стулья для кафе и ресторана, обеденный стул. Рекомендуемая модель. Ценовая категория: до 14 000 руб. Опт, доставка по РФ.</description>
+    </offer>
+    <offer id="543014865262" available="true">
+      <url>https://opt.kaidzendao.ru/stulya/tproduct/543014865262-stul-luna-obivka-velyur</url>
+      <price>14350</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://static.tildacdn.com/stor3633-3165-4132-a632-653832383761/7bcbd5a1b618602ae2c6edc2ea263b65.png</picture>
+      <name>Стул ЛУНА, обивка велюр</name>
+      <description>Стул может быть выполнен в любой обивке по желанию заказчика. Стулья. Запросы: стул, стулья для кафе и ресторана, обеденный стул. Рекомендуемая модель. Ценовая категория: до 15 000 руб. Опт, доставка по РФ.</description>
+    </offer>
+    <offer id="910721036642" available="true">
+      <url>https://opt.kaidzendao.ru/tproduct/910721036642-stul-veno-ultra</url>
+      <price>9900</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://static.tildacdn.com/stor3239-3038-4630-a636-366430306262/af97bd48ab821278481bf63fd64b9a6c.png</picture>
+      <name>Стул ВЕНО ультра</name>
+      <description>Стул может быть выполнен в любой обивке по желанию заказчика. Стулья. Запросы: стул, стулья для кафе и ресторана, обеденный стул. Рекомендуемая модель. Ценовая категория: до 10 000 руб. Опт, доставка по РФ.</description>
+    </offer>
+    <offer id="845965282632" available="true">
+      <url>https://opt.kaidzendao.ru/stulya/tproduct/845965282632-stul-vilyams</url>
+      <price>13750</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://static.tildacdn.com/stor6639-3032-4262-b032-346136363239/85123757.jpg</picture>
+      <name>Стул ВИЛЬЯМС</name>
+      <description>Стул может быть выполнен в любой обивке по желанию заказчика. Стулья. Запросы: стул, стулья для кафе и ресторана, обеденный стул. Рекомендуемая модель. Ценовая категория: до 14 000 руб. Опт, доставка по РФ.</description>
+    </offer>
+    <offer id="979427452712" available="true">
+      <url>https://opt.kaidzendao.ru/stulya/derevyannie-stulya/tproduct/979427452712-stul-veno-plyus</url>
+      <price>11625</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://static.tildacdn.com/stor3963-3335-4631-b432-666164306632/9fdc039e12a8a26a65b824dd7464d0b2.png</picture>
+      <name>Стул ВЕНО ПЛЮС</name>
+      <description>Стул может быть выполнен в любой обивке по желанию заказчика. Деревянные стулья. Запросы: деревянный стул, стул из дерева, деревянные стулья. Рекомендуемая модель. Ценовая категория: до 12 000 руб. Опт, доставка по РФ.</description>
+    </offer>
+    <offer id="191241140022" available="true">
+      <url>https://opt.kaidzendao.ru/stulya/tproduct/191241140022-stul-babl</url>
+      <price>11250</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://static.tildacdn.com/stor6263-3763-4462-b465-656337343565/385331018f00fac2a9b1567cd030bd48.png</picture>
+      <name>Стул БАБЛ</name>
+      <description>Стул может быть выполнен в любой обивке по желанию заказчика. Стулья. Запросы: стул, стулья для кафе и ресторана, обеденный стул. Рекомендуемая модель. Ценовая категория: до 12 000 руб. Опт, доставка по РФ.</description>
+    </offer>
+    <offer id="281087571562" available="true">
+      <url>https://opt.kaidzendao.ru/stulya/tproduct/281087571562-stul-tolyatti</url>
+      <price>23000</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://static.tildacdn.com/stor3861-6462-4336-b565-306666383766/1d101ef6b47ea16bbf30b030e3681406.png</picture>
+      <name>Стул ТОЛЬЯТТИ</name>
+      <description>Стул может быть выполнен в любой обивке по желанию заказчика. Стулья. Запросы: стул, стулья для кафе и ресторана, обеденный стул. Рекомендуемая модель. Ценовая категория: до 23 000 руб. Опт, доставка по РФ.</description>
+    </offer>
+    <offer id="109190143872" available="true">
+      <url>https://opt.kaidzendao.ru/stulya/tproduct/109190143872-stul-zefir-lait</url>
+      <price>5750</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://static.tildacdn.com/stor6261-3838-4431-b363-386437366238/c65c2dd9e803ace7ec1618c76066f469.png</picture>
+      <name>Стул ЗЕФИР</name>
+      <description>Стул может быть выполнен в любой обивке по желанию заказчика. Стулья. Запросы: стул, стулья для кафе и ресторана, обеденный стул. Бюджетная модель. Ценовая категория: до 6 000 руб. Опт, доставка по РФ.</description>
+    </offer>
+    <offer id="994740814822" available="true">
+      <url>https://opt.kaidzendao.ru/stulya/tproduct/994740814822-stul-zefir-bolshoi</url>
+      <price>5940</price>
+      <oldprice>6500</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://static.tildacdn.com/stor6232-3136-4836-a538-613865656335/da839294c21de03eed8bb03bb3726e5b.png</picture>
+      <name>Стул ЗЕФИР плюс</name>
+      <description>Стул может быть выполнен в любой обивке по желанию заказчика. Стулья. Запросы: стул, стулья для кафе и ресторана, обеденный стул. Бюджетная модель. Ценовая категория: до 6 000 руб. Опт, доставка по РФ.</description>
+    </offer>
+    <offer id="924286891362" available="true">
+      <url>https://opt.kaidzendao.ru/stulya/tproduct/924286891362-stul-bronks</url>
+      <price>4990</price>
+      <oldprice>5400</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://static.tildacdn.com/stor6335-3739-4263-b262-653764346332/0c49bf97ae7a3194e979f95ec4913f95.png</picture>
+      <name>Стул БРОНКС</name>
+      <description>Стул может быть выполнен в любой обивке по желанию заказчика. Стулья. Запросы: стул, стулья для кафе и ресторана, обеденный стул. Бюджетная модель. Ценовая категория: до 5 000 руб. Опт, доставка по РФ.</description>
+    </offer>
+    <offer id="162488095782" available="true">
+      <url>https://opt.kaidzendao.ru/stulya/tproduct/162488095782-stul-sietl</url>
+      <price>5200</price>
+      <oldprice>7400</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://static.tildacdn.com/stor3533-6263-4136-b966-643465663265/dc672b679c259c6876e271744f9c137c.png</picture>
+      <name>Стул СИЕТЛ</name>
+      <description>Стул может быть выполнен в любой обивке по желанию заказчика. Стулья. Запросы: стул, стулья для кафе и ресторана, обеденный стул. Бюджетная модель. Ценовая категория: до 6 000 руб. Опт, доставка по РФ.</description>
+    </offer>
+    <offer id="185536219412" available="true">
+      <url>https://opt.kaidzendao.ru/myagkaya-mebel/kresla/tproduct/185536219412-kreslo-tolyatti</url>
+      <price>27000</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>3</categoryId>
+      <picture>https://static.tildacdn.com/stor3664-3764-4163-b766-613964626639/2f35615f5dd46260c5934bde2c151bcc.png</picture>
+      <name>Кресло ТОЛЬЯТТИ</name>
+      <description>Кресло может быть выполнен в любой обивке по желанию заказчика. Кресла. Запросы: кресло, мягкое кресло, кресла для зала. Ценовая категория: до 27 000 руб. Опт, доставка по РФ.</description>
+    </offer>
+    <offer id="359766781622" available="true">
+      <url>https://opt.kaidzendao.ru/myagkaya-mebel/kresla/tproduct/359766781622-kreslo-makalan</url>
+      <price>38190</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>3</categoryId>
+      <picture>https://static.tildacdn.com/stor6134-6637-4938-a165-336463303865/a84099bbb5ee004815147924b6118ec1.png</picture>
+      <name>Кресло МАКАЛАН</name>
+      <description>Кресло может быть выполнен в любой обивке по желанию заказчика. Кресла. Запросы: кресло, мягкое кресло, кресла для зала. Ценовая категория: до 39 000 руб. Опт, доставка по РФ.</description>
+    </offer>
+    <offer id="785124249382" available="true">
+      <url>https://opt.kaidzendao.ru/myagkaya-mebel/kresla/tproduct/785124249382-kreslo-vasko</url>
+      <price>17600</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>3</categoryId>
+      <picture>https://static.tildacdn.com/stor3436-3235-4866-b635-383936633739/a9c176c48e0589acefee8f749d00b541.png</picture>
+      <name>Кресло ВАСКО</name>
+      <description>Кресло может быть выполнен в любой обивке по желанию заказчика. Кресла. Запросы: кресло, мягкое кресло, кресла для зала. Ценовая категория: до 18 000 руб. Опт, доставка по РФ.</description>
+    </offer>
+    <offer id="876030634552" available="true">
+      <url>https://opt.kaidzendao.ru/myagkaya-mebel/kresla/tproduct/876030634552-kreslo-babl</url>
+      <price>29400</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>3</categoryId>
+      <picture>https://static.tildacdn.com/stor6161-3333-4663-b765-643136616635/ab28b681af483cbfaff2e2d311455802.png</picture>
+      <name>Кресло БАБЛ</name>
+      <description>Кресло может быть выполнен в любой обивке по желанию заказчика. Кресла. Запросы: кресло, мягкое кресло, кресла для зала. Ценовая категория: до 30 000 руб. Опт, доставка по РФ.</description>
+    </offer>
+    <offer id="973066684842" available="true">
+      <url>https://opt.kaidzendao.ru/myagkaya-mebel/divany/tproduct/973066684842-divan-byudzhet</url>
+      <price>17490</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>4</categoryId>
+      <picture>https://static.tildacdn.com/stor3538-3134-4662-a332-623536303931/41af806eac82941629eef0abfbcd7741.png</picture>
+      <name>Диван БЮДЖЕТ</name>
+      <description>Диван может быть выполнен в любой обивке по желанию заказчика. Диваны. Запросы: диван, мягкий диван, диваны для кафе и ресторана. Ценовая категория: до 18 000 руб. Опт, доставка по РФ.</description>
+    </offer>
+    <offer id="856293893992" available="true">
+      <url>https://opt.kaidzendao.ru/myagkaya-mebel/divany/tproduct/856293893992-divan-klassik</url>
+      <price>24200</price>
+      <oldprice>29000</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>4</categoryId>
+      <picture>https://static.tildacdn.com/stor6263-3539-4033-b531-313639303334/96fc2c21e7ea1454cd1e2ca8e72f8d17.png</picture>
+      <name>Диван КЛАССИК</name>
+      <description>Диван может быть выполнен в любой обивке по желанию заказчика. Диваны. Запросы: диван, мягкий диван, диваны для кафе и ресторана. Ценовая категория: до 25 000 руб. Опт, доставка по РФ.</description>
+    </offer>
+    <offer id="649508459442" available="true">
+      <url>https://opt.kaidzendao.ru/myagkaya-mebel/divany/tproduct/649508459442-divan-vasko</url>
+      <price>42500</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>4</categoryId>
+      <picture>https://static.tildacdn.com/stor3134-6237-4432-b534-333938323335/e4cdbf0eacb7018cd543452f379718f8.png</picture>
+      <name>Диван ВАСКО</name>
+      <description>Диван может быть выполнен в любой обивке по желанию заказчика. Диваны. Запросы: диван, мягкий диван, диваны для кафе и ресторана. Ценовая категория: до 43 000 руб. Опт, доставка по РФ.</description>
+    </offer>
+    <offer id="203277739122" available="true">
+      <url>https://opt.kaidzendao.ru/myagkaya-mebel/divany/tproduct/203277739122-divan-kioto</url>
+      <price>46000</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>4</categoryId>
+      <picture>https://static.tildacdn.com/stor3537-3236-4531-b962-343136383930/28a49ec190fb66e7d3169f9fdbe274f9.png</picture>
+      <name>Диван КИОТО</name>
+      <description>Диван может быть выполнен в любой обивке по желанию заказчика. Диваны. Запросы: диван, мягкий диван, диваны для кафе и ресторана. Ценовая категория: до 46 000 руб. Опт, доставка по РФ.</description>
+    </offer>
+    <offer id="277641843812" available="true">
+      <url>https://opt.kaidzendao.ru/myagkaya-mebel/divany/tproduct/277641843812-divan-mouro</url>
+      <price>33490</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>4</categoryId>
+      <picture>https://static.tildacdn.com/stor6531-3265-4034-a132-643261636664/4b4c6d20ebcdc2c118f4e72124993d34.png</picture>
+      <name>Диван МОУРО</name>
+      <description>Диван может быть выполнен в любой обивке по желанию заказчика. Диваны. Запросы: диван, мягкий диван, диваны для кафе и ресторана. Ценовая категория: до 34 000 руб. Опт, доставка по РФ.</description>
+    </offer>
+    <offer id="499656644312" available="true">
+      <url>https://opt.kaidzendao.ru/myagkaya-mebel/divany/tproduct/499656644312-divan-babl</url>
+      <price>50600</price>
+      <oldprice>80000</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>4</categoryId>
+      <picture>https://static.tildacdn.com/stor6561-6136-4263-a230-363263666464/5d41710e81cc1f24521c43c49d7d010e.png</picture>
+      <name>Диван БАБЛ</name>
+      <description>Диван может быть выполнен в любой обивке по желанию заказчика. Диваны. Запросы: диван, мягкий диван, диваны для кафе и ресторана. Ценовая категория: до 51 000 руб. Опт, доставка по РФ.</description>
+    </offer>
+    <offer id="237298456092" available="true">
+      <url>https://opt.kaidzendao.ru/stulya/tproduct/237298456092-stul-babl-barnii</url>
+      <price>14990</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>5</categoryId>
+      <picture>https://static.tildacdn.com/stor6134-3432-4364-a333-386465303533/35bccb257a765063a18cbeff058bc038.png</picture>
+      <name>Стул БАБЛ барный</name>
+      <description>Стул может быть выполнен в любой обивке по желанию заказчика. Барные стулья. Запросы: барный стул, барные стулья, стул для барной стойки. Ценовая категория: до 15 000 руб. Опт, доставка по РФ.</description>
+    </offer>
+    <offer id="723439114352" available="true">
+      <url>https://opt.kaidzendao.ru/stulya/tproduct/723439114352-stul-maik-barnii</url>
+      <price>17850</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>5</categoryId>
+      <picture>https://static.tildacdn.com/stor3636-6364-4434-b938-393132373838/cd17762981d0780b601e84aee33b5b74.png</picture>
+      <name>Стул МАЙК барный</name>
+      <description>Стул может быть выполнен в любой обивке по желанию заказчика. Барные стулья. Запросы: барный стул, барные стулья, стул для барной стойки. Ценовая категория: до 18 000 руб. Опт, доставка по РФ.</description>
+    </offer>
+    <offer id="834450317532" available="true">
+      <url>https://opt.kaidzendao.ru/stulya/tproduct/834450317532-stul-rimini-barnii</url>
+      <price>16790</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>5</categoryId>
+      <picture>https://static.tildacdn.com/stor6262-3633-4862-b063-376632643536/68941812.png</picture>
+      <name>Стул РИМИНИ барный</name>
+      <description>Стул может быть выполнен в любой обивке по желанию заказчика. Барные стулья. Запросы: барный стул, барные стулья, стул для барной стойки. Ценовая категория: до 17 000 руб. Опт, доставка по РФ.</description>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
