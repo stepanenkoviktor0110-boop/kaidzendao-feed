@@ -112,7 +112,9 @@ for (const it of ITEMS) {
     const oldp = oldPriceFrom(html);
     const c = CATS[it.cat];
     const promoLine = it.promo ? ' ' + PROMO[it.promo] : '';
-    const desc = `${baseDesc} ${c.name}. Запросы: ${c.syn}.${promoLine}${zone(price)} Опт, доставка по РФ.`.replace(/\s+/g, ' ').trim();
+    // Цену в описание НЕ кладём: B24U отдаёт модели только name+description,
+    // поэтому без числа в тексте бот цену не озвучит. Цена идёт структурным <price> на карточку.
+    const desc = `${baseDesc} ${c.name}. Запросы: ${c.syn}.${promoLine} Опт, доставка по РФ.`.replace(/\s+/g, ' ').trim();
     offers.push({ id, name, desc, price, oldp, picture, url: it.u, catId: c.id });
     console.log(`OK  ${id}  ${name}  ${price ?? '—'}${oldp ? ' (old ' + oldp + ')' : ''}`);
   } catch (e) {
@@ -132,6 +134,9 @@ const offXml = offers.map(o => {
     `      <currencyId>RUB</currencyId>`,
     `      <categoryId>${o.catId}</categoryId>`,
     o.picture ? `      <picture>${esc(o.picture)}</picture>` : '',
+    `      <vendor>KAIDZENDAO</vendor>`,
+    `      <vendorCode>${o.id}</vendorCode>`,
+    `      <quantity>1</quantity>`,
     `      <name>${esc(o.name)}</name>`,
     `      <description>${esc(o.desc)}</description>`,
     `    </offer>`,
